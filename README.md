@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **swami.2@iitj.ac.in**
 
-- ⚡ Fun fact **As we move to new year of our life the new year becomes smallest percentage of your life. For Example you are born in 1st Jan 2000 and it's Jan 2002 the percentage of year 2001 in your life = (1/2)*100=50 ,similarly for 2021 % = (1/21)*100 = 4.761904761904762 🙂**
+- ⚡ Fun fact **Your brain uses 10 watts of energy to think and does not feel pain.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
