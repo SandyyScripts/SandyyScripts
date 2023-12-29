@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandeep Swami</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandypswami&label=Profile%20views&color=21c424&style=plastic" alt="sandypswami" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SandyyScripts&label=Profile%20views&color=21c424&style=plastic" alt="SandyyScripts" /> </p>
 
 - 🌱 I’m currently learning **NEXTJS and Data Structures and Algorithms**
 
